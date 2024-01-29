@@ -52,15 +52,12 @@ InceptionV3 is used for preprocessing images, and the extracted features are cac
 9. **Final Model Prediction:**
    - Loaded an image and translated it to a caption using the trained model.
      
-# Libraries Used
+# Code Dependencies
 
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23FF6F00.svg?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-
-# Code Dependencies
-
 [![OS](https://img.shields.io/badge/OS-%233776AB.svg?logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Operating_system)
 [![PIL](https://img.shields.io/badge/PIL-%23FF6F00.svg?logo=python&logoColor=white)](https://pillow.readthedocs.io/en/stable/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23FF6F00.svg?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
